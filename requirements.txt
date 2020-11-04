@@ -1,0 +1,10 @@
+discord.py[voice]
+asyncio
+youtube_dl
+wikipedia
+praw
+requests
+pillow
+captcha
+ffmpeg 
+youtube-dl
