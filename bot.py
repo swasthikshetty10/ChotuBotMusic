@@ -41,5 +41,5 @@ async def on_command_error(ctx,error):
   elif isinstance(error, commands.CommandNotFound):
     pass
 
-bot.run('NzcyMzcyMTkzOTYzMDE2MjAy.X55tqQ.erInlV7y4oL4k6kpKrxXctCyzv8')
+bot.run('TOKEN HERE')
 
